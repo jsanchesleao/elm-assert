@@ -15,3 +15,6 @@ main =
       ]
     ]
 ```
+This will generate a report HTML like the following:
+
+![Assert Report](/examples/assert.png)
